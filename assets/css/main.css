@@ -217,6 +217,9 @@ input, select, textarea {
 		max-width: 100%;
 		width: 1400px;
 	}
+	.summuryText{
+		text-align: left;
+	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
@@ -2244,11 +2247,12 @@ input, select, textarea {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
+				
 			}
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/lightwall.jpg");
 			}
 
 			#main > section.two {
