@@ -72,6 +72,19 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* =========================== CUSTOME STYLES=============================================*/
+.more { 
+	cursor: pointer; 
+	border: 1px solid #3498db;
+	background-color: transparent; 
+	height: 50px; 
+	width: 90px; 
+	color: #3498db !important; 
+    border-radius:8px;
+	box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+} 
+
+/* ============================================================================*/
 /* Basic */
 
 	html {
